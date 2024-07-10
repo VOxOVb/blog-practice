@@ -1,8 +1,8 @@
 {
-	"name": "drupal/blog-practice_bootstrap_sass",
+	"name": "drupal/blog_practice_sass",
 	"type": "drupal-theme",
 	"description": "SASS subtheme for Barrio Theme.",
-	"homepage": "http://drupal.org/project/blog-practice_bootstrap_sass",
+	"homepage": "http://drupal.org/project/blog_practice_sass",
 	"license": "GPL-2.0+",
 	"require": {
 		"drupal/bootstrap_barrio": ">=5.1.3"

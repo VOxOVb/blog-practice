@@ -2,9 +2,9 @@ langcode: en
 status: true
 dependencies:
   theme:
-    - blog-practice_bootstrap_sass
-id: blog-practice_bootstrap_sass_page_title
-theme: blog-practice_bootstrap_sass
+    - blog_practice_sass
+id: blog_practice_sass_page_title
+theme: blog_practice_sass
 region: content
 weight: -7
 provider: null

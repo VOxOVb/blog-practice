@@ -4,9 +4,9 @@ dependencies:
   module:
     - system
   theme:
-    - blog-practice_bootstrap_sass
-id: blog-practice_bootstrap_sass_site_branding
-theme: blog-practice_bootstrap_sass
+    - blog_practice_sass
+id: blog_practice_sass_site_branding
+theme: blog_practice_sass
 region: header
 weight: -7
 provider: null

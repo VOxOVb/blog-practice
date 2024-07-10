@@ -7,7 +7,7 @@
 
   'use strict';
 
-  Drupal.behaviors.blog-practice_bootstrap_sass = {
+  Drupal.behaviors.blog_practice_sass = {
     attach: function(context, settings) {
 
       // Custom code here
